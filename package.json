@@ -1,0 +1,16 @@
+{
+  "name": "ndivvy",
+  "version": "0.0.6",
+  "description": "Node package to use Divvy's JSON api",
+  "main": "ndivvy.js",
+  "scripts": {
+  },
+    "dependencies": {
+    "request": "2.27.0",
+    "underscore": "1.5.2",
+    "JQDeferred": "1.9.1",
+    "sphere-knn": "1.2.1"
+  },
+  "author": "Mike Jahn",
+  "license": "BSD-2-Clause"
+}
