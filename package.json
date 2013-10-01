@@ -3,6 +3,7 @@
   "version": "0.0.6",
   "description": "Node package to use Divvy's JSON api",
   "main": "ndivvy.js",
+  "respository": "https://github.com/mikejahn/ndivvy"
   "scripts": {
   },
     "dependencies": {
