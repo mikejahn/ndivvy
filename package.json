@@ -1,8 +1,8 @@
 {
   "name": "ndivvy",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Node package to use Divvy's JSON api",
-  "main": "ndivvy.js",
+  "main": "./lib/ndivvy.js",
   "repository" : {
     "type": "git",
     "url":  "https://github.com/mikejahn/ndivvy"
