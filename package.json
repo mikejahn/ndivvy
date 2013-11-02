@@ -1,6 +1,6 @@
 {
   "name": "ndivvy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node package to use Divvy's JSON api",
   "main": "./lib/ndivvy.js",
   "repository" : {
@@ -12,7 +12,6 @@
     "dependencies": {
     "request": "2.27.0",
     "underscore": "1.5.2",
-    "JQDeferred": "1.9.1",
     "sphere-knn": "1.2.1"
   },
   "author": "Mike Jahn",
