@@ -10,7 +10,7 @@ npm install ndivvy
 
 
 ```javascript
-var nDivvy = require( "ndivvy" );`
+var nDivvy = require( "ndivvy" );
 ```
 
 
