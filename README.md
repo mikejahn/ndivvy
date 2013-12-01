@@ -1,10 +1,17 @@
 nDivvy - Node Package for Divvy JSON API
 ===========================
 
+### Install
+```
+npm install ndivvy
+```
 
 ### Using
 
-`var nDivvy = require( "ndivvy" );`
+
+```javascript
+var nDivvy = require( "ndivvy" );
+```
 
 
 # getStationById(id, callback)
@@ -36,7 +43,7 @@ landMark: "422"
 ```
 
 ###Usage
-```
+```javascript
 nDivvy.getStationById(336, function(statusCode, response) {
   var station = response;
   console.log(station.id);
@@ -95,7 +102,7 @@ The response will look something like this:
 ```
 
 ###Usage
-```
+```javascript
 nDivvy.nearbyStations(41.8849,-87.6233, 1, function(statusCode, response){
   var station = response[0].station.id;
   console.log(id);
